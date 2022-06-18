@@ -1,4 +1,4 @@
-# Progetto SCUOLA METAVERSO MACCHIAVELLI - 5C 2021/2022
+# Progetto SCUOLA METAVERSO MACHIAVELLI - 5C 2021/2022
 
 ![Alt text](./img/scuola_alto.jpeg?raw=true "Scuola vista dall'alto")
 
